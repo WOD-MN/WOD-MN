@@ -1,83 +1,85 @@
-# 🌌 WELCOME TO WOD-MN'S GITHUB UNIVERSE! 🚀
+# 🌌 **Saiman Pokhrel's Tech Odyssey** 🚀  
 
-![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=0CF7E7&width=900&lines=👨‍💻+Computer+Engineer+%7C+Space+Enthusiast;🌍+IoT+%26+Embedded+Systems+Innovator;🎯+Hackathon+Champion+%7C+Problem+Solver;💡+Passionate+about+Space+Tech+Literacy;🔗+Driven+by+Innovation+%26+Impact!)
-
-
-## 👋 Hi there, I'm **Saiman Pokhrel**!  
-💻 **Computer Engineering Final Year Student**  
-📍 **Bharatpur, Bagmati Province, Nepal**  
-🌐 **[LinkedIn Profile](https://www.linkedin.com/in/saiman-pokhrel-385946154/)**  
+![Banner](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=32CD32&width=1000&lines=👨‍💻+Computer+Engineer+%7C+IoT+Innovator;🌍+Space+Enthusiast+%7C+RF+Hacker;🛰️+Satellite+Tech+Advocate;🚀+Hackathon+Champion+%7C+Problem+Solver;🔗+Transforming+Ideas+into+Impactful+Solutions!)  
 
 ---
 
-## 🚀 About Me  
+## 👋 **Greetings, Earthlings!**  
 
-I’m a passionate **tech innovator** with a mission to bridge the gap between technology and real-world challenges. My journey revolves around developing groundbreaking IoT and embedded systems, winning hackathons, and advocating for **space technology literacy in Nepal.**
+I’m **Saiman Pokhrel**, a **tech-savvy creator** with a love for **space tech**, **IoT**, and **cutting-edge embedded systems**. My passion lies in developing solutions that tackle real-world problems while advancing **space technology literacy** in Nepal.  
 
-### Highlights:  
-- **💡 Innovator**: Designing cutting-edge solutions in IoT, embedded systems, and satellite technology.  
-- **🏆 Hackathon Pro**: Proven track record of success in competitive innovation spaces.  
-- **🌍 Space Tech Enthusiast**: Promoting STEM and space literacy through workshops and community events.  
-- **🔬 Researcher**: Working on advanced projects like GLOF early warning systems, LoRa-based solutions, and more.  
-- **📡 Ground Station Expert**: Built a **SatNOGS ground station** and contributed to CubeSat and PocketCube projects.
+🌐 Based in **Bharatpur, Nepal**  
+📡 Enthusiastic about **IoT innovation, satellite tech, and RF hacking.**  
 
 ---
 
-## 🛠️ Technologies & Tools  
+### 🛰️ **Mission Control**  
 
-### Languages:  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+🔭 **Explorer**: Pioneering solutions like **GLOF early warning systems**, **virtual fencing (LoRaFence)**, and **smart farming**.  
+💡 **Innovator**: Designing **IoT systems**, embedded devices, and **space communication setups**.  
+🌌 **Advocate**: Actively contributing to **space and satellite technology education** in Nepal through workshops and projects.  
+🌍 **Collaborator**: A champion of teamwork, hackathons, and problem-solving with global impact.  
+
+---
+
+## 🛠️ **Technologies & Tools**  
+
+### Programming Languages:  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
 
 ### Platforms & Frameworks:  
-![ESP32](https://img.shields.io/badge/-ESP32-181717?logo=espressif&logoColor=white&style=flat)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)  
+![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white&style=for-the-badge)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=for-the-badge)  
+![LoRa](https://img.shields.io/badge/-LoRa-051C2C?logo=lora&style=for-the-badge)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
 
-### Tools:  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![Blynk](https://img.shields.io/badge/-Blynk-3C9CD7?logo=blynk&logoColor=white&style=flat)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
-![LoRa](https://img.shields.io/badge/-LoRa-051C2C?style=flat&logoColor=white)  
-
----
-
-## 🔭 Current Projects  
-
-1. **🌊 GLOF Early Warning System**  
-   A system designed to prevent disasters caused by glacial lake outburst floods using IoT and real-time alerts.  
-
-2. **🐾 LoRaFence**  
-   Virtual fencing solution using LoRa technology to monitor and protect animals in wild and domestic environments.  
-
-3. **🌾 Smart Farming Solution**  
-   Automation of irrigation and crop protection using IoT devices like ESP8266, soil moisture sensors, and PIR sensors.  
-
-4. **🛰️ Satellite Ground Station**  
-   Building ground stations and contributing to satellite projects like CubeSat and PocketCube.
+### Tools & Others:  
+![SatNOGS](https://img.shields.io/badge/-SatNOGS%20Ground%20Station-32CD32?style=for-the-badge)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+![Blynk](https://img.shields.io/badge/-Blynk-3C9CD7?logo=blynk&logoColor=white&style=for-the-badge)  
 
 ---
 
-## 🌱 Community & Contributions  
+## 🔭 **Current Projects**  
 
-I am an active member of the following:  
-- **SEDS Nepal**: Promoting space tech awareness.  
-- **United Tech Club**: Conducting workshops on STEM and IoT.  
-- **Bagmati UNESCO Club**: Advocating for science education and technology literacy.  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WOD-MN&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WOD-MN&theme=radical" width="48%" />
-</p>
+| 🛰️ Project | 🌟 Description | 🚀 Tech Stack |  
+| :-- | :-- | :-- |  
+| **🌊 GLOF Early Warning System** | Real-time disaster alert system leveraging **IoT and ML** for preventing glacial lake outburst floods. | **Raspberry Pi, LoRa, Solar Power, IoT Sensors** |  
+| **🐾 LoRaFence** | Virtual fencing using **LoRa** to monitor and protect wild/domestic animals. | **Heltec LoRa32 V3, GPS, Flask, OpenStreetMap** |  
+| **🌾 Smart Farming Solution** | Automating irrigation and crop protection with **IoT-based systems**. | **ESP8266, Soil Sensors, PIR, Blynk** |  
+| **🛰️ Satellite Ground Station** | Building a **SatNOGS ground station** to track satellites and contribute to **CubeSat projects**. | **SatNOGS, Python, RF Communication** |  
 
 ---
 
-## 📫 Connect with Me  
+## 🌌 **Interactive Highlights**  
 
-🌐 **LinkedIn**: [Saiman Pokhrel](https://www.linkedin.com/in/saiman-pokhrel-385946154/)  
-📧 **Email**: saimanpokhrel70@gmail.com  
+[![Watch the video](https://img.shields.io/badge/-🌍%20Discover%20My%20Projects-32CD32?style=for-the-badge&logo=hackster)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+
+![IoT GIF](https://github.com/WOD-MN/WOD-MN/assets/unique-animation.gif)  
+
+---
+
+## 📡 **Community Engagement**  
+
+🌟 Member of **SEDS Nepal**, **United Tech Club**, and **Bagmati UNESCO Club**.  
+🎓 Hosting workshops on **STEM education**, **space tech**, and **IoT innovation**.  
+
+---
+
+## 📊 **GitHub Stats & Activity**  
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=WOD-MN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WOD-MN&theme=tokyonight&hide_border=true" width="45%" />  
+</div>  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WOD-MN&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)  
+
+---
+
+## 📫 **Contact Me**  
+
+🌐 [**LinkedIn**](https://www.linkedin.com/in/saiman-pokhrel-385946154/)  
+📧 [**Email**](mailto:saimanpokhrel70@gmail.com)  
