@@ -1,8 +1,7 @@
 # 🌌 WELCOME TO WOD-MN'S GITHUB UNIVERSE! 🚀
 
-![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=0CF7E7&width=600&lines=👨‍💻+Computer+Engineer+%7C+Space+Enthusiast;🌍+IoT+%26+Embedded+Systems+Innovator;🎯+Hackathon+Champion+%7C+Problem+Solver;💡+Passionate+about+Space+Tech+Literacy;🔗+Driven+by+Innovation+%26+Impact!)
+![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=0CF7E7&width=900&lines=👨‍💻+Computer+Engineer+%7C+Space+Enthusiast;🌍+IoT+%26+Embedded+Systems+Innovator;🎯+Hackathon+Champion+%7C+Problem+Solver;💡+Passionate+about+Space+Tech+Literacy;🔗+Driven+by+Innovation+%26+Impact!)
 
----
 
 ## 👋 Hi there, I'm **Saiman Pokhrel**!  
 💻 **Computer Engineering Final Year Student**  
